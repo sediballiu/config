@@ -1,0 +1,58 @@
+#firewall
+sudo apt-get install ufw 
+
+#i3wm
+sudo apt install i3
+
+#feh
+sudo apt install feh
+
+#compton
+sudo apt install compton
+
+#git
+sudo apt install git
+
+#rxvt
+sudo apt-get install rxvt-unicode xsel
+
+#nnn
+sudo apt install nnn
+
+#nm
+sudo apt install network-manager
+
+#tlp
+sudo apt install tlp tlp(-rdw)
+
+#pip3
+sudo apt install python3-venv python3-pip
+
+#matplotlib
+pip3 install matplotlib
+
+#PIL
+python3 -m pip install Pillow
+
+#nmap
+sudo apt install nmap
+
+#net-tools(ifconfig, netstat, dig, hostname, route, arp, iptunnel)
+sudo apt install net-tools
+
+#zathura
+sudo apt install zathura
+
+#ffmpeg &&
+sudo apt install ffmpeg mkvtoolnix
+
+#mpv
+sudo apt install mpv
+
+#i3blocks
+sudo apt install i3blocks
+
+#nodejs
+
+#LATEX
+sudo apt install texlive-full
